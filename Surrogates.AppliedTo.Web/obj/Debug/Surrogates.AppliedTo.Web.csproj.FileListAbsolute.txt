@@ -1,0 +1,7 @@
+C:\Users\noproblembabe\documents\visual studio 2012\Projects\WebApplication1\Surrogates.AppliedTo.Aspx\bin\Debug\Surrogates.AppliedTo.Web.dll
+C:\Users\noproblembabe\documents\visual studio 2012\Projects\WebApplication1\Surrogates.AppliedTo.Aspx\bin\Debug\Surrogates.AppliedTo.Web.pdb
+C:\Users\noproblembabe\documents\visual studio 2012\Projects\WebApplication1\Surrogates.AppliedTo.Aspx\bin\Debug\Surrogates.dll
+C:\Users\noproblembabe\documents\visual studio 2012\Projects\WebApplication1\Surrogates.AppliedTo.Aspx\bin\Debug\Surrogates.pdb
+C:\Users\noproblembabe\documents\visual studio 2012\Projects\WebApplication1\Surrogates.AppliedTo.Aspx\obj\Debug\Surrogates.AppliedTo.Web.csprojResolveAssemblyReference.cache
+C:\Users\noproblembabe\documents\visual studio 2012\Projects\WebApplication1\Surrogates.AppliedTo.Aspx\obj\Debug\Surrogates.AppliedTo.Web.dll
+C:\Users\noproblembabe\documents\visual studio 2012\Projects\WebApplication1\Surrogates.AppliedTo.Aspx\obj\Debug\Surrogates.AppliedTo.Web.pdb
